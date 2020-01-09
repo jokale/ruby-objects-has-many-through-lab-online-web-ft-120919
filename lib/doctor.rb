@@ -26,7 +26,7 @@ class Doctor
       Appointment.all.select  |appointment|
         appointment.patient
       end
-    end
+    # end
  
  
 end 
